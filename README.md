@@ -2,7 +2,7 @@
 ## Running the test
 ### Windows
 
-- Clone this repository: `git clone https://gitlab.eventops.io/recruiting/codetest-1.git`
+- Clone this repository: `https://github.com/AthlinksEngineering/recruiting-codetest-1.git`
 - Or click the Download button above and unzip to a directory.
 - Using Windows Explorer, browse to `codetest-1\test`, and double click on `test.cmd`
 
@@ -35,7 +35,7 @@
         sudo apt-get install -y nodejs
         ````
         - Install java 8 and scala 2.11.7 (see https://gist.github.com/bigsnarfdude/b2eb1cabfdaf7e62a8fc)
-- Clone this repository: `git clone https://gitlab.eventops.io/recruiting/codetest-1.git`
+- Clone this repository: `https://github.com/AthlinksEngineering/recruiting-codetest-1.git`
 - Run the test script
   - `cd codetest-1/test`
   - `sh test.sh`
